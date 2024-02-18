@@ -1,0 +1,2 @@
+git rebase adalah sebuah penggabungan dari branch dan master dengan mengubah history commit dalam repository. 
+Saat rebase maka perubahan yang dilakukan di salah satu branch akan diaplikasikan ke branch lainnya.
