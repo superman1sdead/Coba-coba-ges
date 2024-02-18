@@ -1,1 +1,3 @@
-Percobaan ges
+Merge conflict adalah kasus ketika terjadi error pada sebuah file yang sedang diproses untuk di integrasi(merge) dari dua sumber(source) berbeda. 
+
+Hal yang dapat dilakukan adalah dengan melakukan undo dan memulai dari awal untuk merge tersebut. Dapat menggunakan git merge -abort dan git rebase -abort 
