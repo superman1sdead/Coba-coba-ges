@@ -1,0 +1,3 @@
+Fork repository adalah meng-copy repository github milik orang lain ke akun GitHub kita. 
+
+Pull request adalah ketika ingin menggabungkan perubahan dengan repository source.
